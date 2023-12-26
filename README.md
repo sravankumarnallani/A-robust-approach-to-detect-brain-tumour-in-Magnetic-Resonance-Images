@@ -1,0 +1,2 @@
+# A robust approach to detect brain tumour in Magnetic Resonance Images
+ •	Spearheaded the development of a robust MRI-based brain tumor detection system. Employed advanced image preprocessing techniques to reduce noise and enhance image quality.  •	Achieved an impressive accuracy rate of 97% in brain tumor detection. Presented research findings to contribute to the advancement of medical imaging technology.
